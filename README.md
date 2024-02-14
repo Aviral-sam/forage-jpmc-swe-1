@@ -1,2 +1,2 @@
-# forage-jpmc-swe-1
-This is jp morgan chase &amp; co software chase and co software devloper job simulation project which required me to do Interface with a stock price data feed Use JPMorgan Chase &amp; Co. frameworks and tools Display data visually for traders Bonus task: Open source contribution
+# forage-jpmc-1
+In this project, I had to develop a software application that can interface with a stock price data feed and display the data visually for traders. I used the JPMorgan Chase & Co. frameworks and tools, such as Perspective and React, to create a user interface that can show the stock prices in real time using charts and tables. I also had to implement some logic to handle outliers and missing data in the feed. As a bonus task, I contributed to the open source community by submitting a pull request to the Perspective repository, fixing a bug that I found during the development process.
